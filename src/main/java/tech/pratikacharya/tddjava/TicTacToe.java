@@ -5,7 +5,6 @@ package tech.pratikacharya.tddjava;
  */
 public class TicTacToe {
 
-
     private char[][] board = new char[][]{
             {'\0', '\0', '\0'},
             {'\0', '\0', '\0'},
